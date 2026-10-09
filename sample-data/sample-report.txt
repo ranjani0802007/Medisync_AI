@@ -1,0 +1,26 @@
+Patient Name: Ramesh Kumar
+Patient ID: MRN-48213
+DOB: 14/03/1969
+Phone: 9876543210
+Email: ramesh.k@example.com
+Address: 12 Gandhi Nagar, Coimbatore
+Aadhaar: 4821 9937 1204
+
+58 years male presenting with chest pain, breathlessness and fatigue for 3 days. Known diabetic.
+Hemoglobin 10.2 g/dL
+WBC 11.8
+Glucose 246 mg/dL
+HbA1c 9.1 %
+Creatinine 1.9 mg/dL
+Troponin 0.31 ng/mL
+LDL 168 mg/dL
+ECG: ST depression in V4-V6.
+
+Daily monitoring:
+Day 1: Glucose 246, BP 160/100, Hb 9.4, RBC 3.7, WBC 12.8, Platelets 128
+Day 2: Glucose 232, BP 156/98, Hb 9.5, RBC 3.8, WBC 12.2, Platelets 134
+Day 3: Glucose 214, BP 150/94, Hb 9.8, RBC 3.9, WBC 11.6, Platelets 149
+Day 4: Glucose 196, BP 146/92, Hb 10.0, RBC 4.0, WBC 10.9, Platelets 163
+Day 5: Glucose 181, BP 140/88, Hb 10.2, RBC 4.1, WBC 10.1, Platelets 182
+Day 6: Glucose 166, BP 134/86, Hb 10.5, RBC 4.2, WBC 9.4, Platelets 205
+Day 7: Glucose 152, BP 128/82, Hb 10.9, RBC 4.3, WBC 8.7, Platelets 231
